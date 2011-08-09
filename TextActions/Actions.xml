@@ -2,7 +2,7 @@
 <action-recipes>
 	
 	<action id="com.onecrayon.text-actions.prefixr.update-prefixes" category="sugar.prefixr">
-		<class>TEALoader</class>3
+		<class>TEALoader</class>
 		<title>Update Selection or Document</title>
 		<key-equivalent>control option command u</key-equivalent>
 		<setup>
