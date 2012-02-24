@@ -2,14 +2,13 @@
 <action-recipes>
 	
 	<action id="com.onecrayon.text-actions.prefixr.update-prefixes" category="sugar.prefixr">
-		<class>TEALoader</class>
+		<class>OCShellAction</class>
 		<title>Update Selection or Document</title>
 		<key-equivalent>control option command u</key-equivalent>
 		<setup>
 			<script>prefixr.sh</script>
 			<input>selection</input>
 			<alternate>document</alternate>
-			<output>text</output>
 		</setup>
 	</action>
 	

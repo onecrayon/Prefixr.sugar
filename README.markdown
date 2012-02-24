@@ -5,6 +5,8 @@ service to [Espresso](http://macrabbit.com/espresso/).
 
 ## Installation
 
+**You must install [ShellActions.sugar](https://github.com/onecrayon/ShellActions-sugar) to use Prefixr.sugar**
+
 To install, download with the button above, decompress the folder, and rename it
 `Prefixr.sugar`. Then double click to install in Espresso.
 
